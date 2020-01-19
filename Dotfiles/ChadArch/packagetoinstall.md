@@ -8,5 +8,5 @@ materia-gtk-theme papirus-icon-theme lightdm lightdm-gtk-greeter lightdm-gtk-gre
  gvfs noto-fonts zsh powerline-fonts zsh-completions rxvt-unicode virtualbox virtualbox-guest-iso virtualbox-ext-vnc\
  virtualbox-host-modules-arch git
 
-# From AUR
+# From AUR:
 polybar pfetch virtualbox-ext-oracle yay
