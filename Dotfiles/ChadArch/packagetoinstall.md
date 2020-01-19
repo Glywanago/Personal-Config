@@ -9,4 +9,4 @@ materia-gtk-theme papirus-icon-theme lightdm lightdm-gtk-greeter lightdm-gtk-gre
  virtualbox-host-modules-arch
 
 # From AUR
-polybar pfetch virtualbox-ext-oracle
+polybar pfetch virtualbox-ext-oracle yay
